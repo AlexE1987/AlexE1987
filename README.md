@@ -15,7 +15,7 @@ Frontend-разработчик.
 В планах дальнейшее развитие во front-end разработке в сторону фреймворка VUE/React. Хочу работать в команде с данными технологиями. Быстрая обучаемость. На данный момент прохожу курс RS school Front-end.
 
 ## Projects
-[Online-zoo](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/online-zoo/ "Online-zoo")
+[Online-zoo](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/online-zoo/ "Online-zoo")</br>
 [Virtual-piano](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/virtual-piano/ "Virtual-piano")</br>
 [Wildlife](https://alexe1987.github.io/wildlife/ "Wildlife")</br>
 
