@@ -16,4 +16,5 @@ Frontend-разработчик.
 
 ## Projects 
 [Virtual-piano](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/virtual-piano/ "Virtual-piano")</br>
-[Wildlife](https://alexe1987.github.io/wildlife/ "Wildlife")
+[Wildlife](https://alexe1987.github.io/wildlife/ "Wildlife")</br>
+[Online-zoo](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/online-zoo/ "Online-zoo")
