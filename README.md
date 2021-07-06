@@ -14,11 +14,12 @@ Frontend-разработчик.
 
 -Figma
 
-В планах дальнейшее развитие во front-end разработке в сторону фреймворка VUE/React. Хочу работать в команде с данными технологиями. Быстрая обучаемость. На данный момент прохожу курс RS school Front-end.
+React/VUE. Хочу работать в команде с данными технологиями.
 
 ## Projects
-[Photo-filter](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/photo-filter/ "Photo-filter")</br>
-[Online-zoo](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/online-zoo/ "Online-zoo")</br>
-[Virtual-piano](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/virtual-piano/ "Virtual-piano")</br>
-[Wildlife](https://alexe1987.github.io/wildlife/ "Wildlife")</br>
+[Hot-Burger](https://my-hot-burgers.netlify.app/) - React+firebase <br>
+[Photo-filter](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/photo-filter/ "Photo-filter") - JS(Date + Canavas(basic), CSS variables</br>
+[Online-zoo](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/online-zoo/ "Online-zoo") - HTML/CSS(responsive/adaptive) + JS dark/ligth themes, carousels(desctop),</br>
+[Virtual-piano](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/virtual-piano/ "Virtual-piano") - JavaScript - basics</br>
+[Wildlife](https://alexe1987.github.io/wildlife/ "Wildlife") - HTML/CSS basics</br>
 
