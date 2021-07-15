@@ -1,4 +1,4 @@
-![AlexeyEvsikov](https://user-images.githubusercontent.com/77671333/113104590-c90b6a80-9211-11eb-9227-775530d0c442.png)
+![AlexeyEvsikov](https://user-images.githubusercontent.com/77671333/125777360-3a2f5db6-29ed-4452-86e6-5a01d2dc2c92.png)
 
 ## About me
 Frontend-разработчик.
