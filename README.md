@@ -1,10 +1,12 @@
 ![AlexeyEvsikov](https://user-images.githubusercontent.com/77671333/125778087-c3d575c7-4886-4b6b-b9c4-67c815dfbf9f.png)
 
 ## About me
-Frontend-разработчик.
-Создание сайтов и веб-приложений с использованием технологий:
+Frontend-developer.
+Creation of sites and web applications using technologies::
 
 -JavaScript
+
+-React
 
 -HTML/CSS/Bootstrap/BEM
 
@@ -13,8 +15,6 @@ Frontend-разработчик.
 -GIt/GitHub
 
 -Figma
-
-React/VUE. Хочу работать в команде с данными технологиями.
 
 ## Projects
 [Hot-Burger](https://my-hot-burgers.netlify.app/) - React+firebase <br>
