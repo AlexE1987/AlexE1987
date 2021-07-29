@@ -2,7 +2,7 @@
 
 ## About me
 Frontend-developer.
-Creation of sites and web applications using technologies::
+Creation of sites and web applications using technologies:
 
 -JavaScript
 
