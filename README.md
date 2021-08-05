@@ -12,7 +12,7 @@ Creation of sites and web applications using technologies:
 
 -Webpack
 
--GIt/GitHub
+-Git/GitHub
 
 -Figma
 
