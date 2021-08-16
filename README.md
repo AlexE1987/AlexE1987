@@ -17,6 +17,7 @@ Creation of sites and web applications using technologies:
 -Figma
 
 ## Projects
+[social-network](https://friends-socials.netlify.app/profile) - React/Redux <br>
 [Hot-Burger](https://my-hot-burgers.netlify.app/) - React+firebase <br>
 [Pay-form](https://my-test-pay-form.netlify.app) - HTML/CSS/JS <br>
 [Photo-filter](https://rolling-scopes-school.github.io/alexe1987-JSFE2021Q1/photo-filter/ "Photo-filter") - JS(Date + Canavas(basic), CSS variables</br>
